@@ -22,6 +22,4 @@ List<Object> resultList =  ForkJoinUtil.getResult(list, achievementFileTask,0,li
 
 注：如果想要在拿到树形结构后再做处理，请自行强制转化。
 
-可参考AchieveManagementController中listJson方法的使用示例 ^_^
-
-huang.zh
+huang.zh ^_^
